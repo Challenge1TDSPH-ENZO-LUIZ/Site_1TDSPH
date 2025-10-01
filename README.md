@@ -33,7 +33,7 @@ O **Hospital São Lucas** é um sistema de gestão hospitalar desenvolvido como 
 
 | Nome | RM | Turma |
 |------|----|-------|
-| Enzo Luiz | 566053 | 1TDSPH |
+| Enzo Ricarte | 566053 | 1TDSPH |
 | Luiz Gustavo Guedes | 565843 | 1TDSPH |
 
 ## 📁 Estrutura do Projeto
