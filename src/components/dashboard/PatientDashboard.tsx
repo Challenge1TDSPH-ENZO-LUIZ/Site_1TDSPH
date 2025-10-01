@@ -68,7 +68,13 @@ const PatientDashboard: React.FC<PatientDashboardProps> = ({ user }) => {
 
     const mockDoctors: User[] = [
       {
-        
+        id: 1,
+        name: 'Dr. João Silva',
+        email: 'joao@hospital.com',
+        password: '123456',
+        type: 'doctor',
+        crm: '123456',
+        specialty: 'Cardiologia'
       }
     ]
 
