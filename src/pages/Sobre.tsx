@@ -20,13 +20,10 @@ const Sobre: React.FC = () => {
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Nossa História</h2>
               <p className="text-lg text-gray-600 leading-relaxed mb-4">
-                Fundado em 1985, o Hospital São Lucas nasceu da visão de um grupo de médicos apaixonados 
-                pela medicina e comprometidos com o bem-estar da comunidade. O que começou como uma pequena 
-                clínica especializada, hoje é um dos maiores e mais respeitados hospitais da região.
+               
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Ao longo de mais de 35 anos, crescemos constantemente, sempre investindo em tecnologia de 
-                ponta, capacitação de profissionais e melhoria contínua dos nossos serviços.
+               
               </p>
             </div>
 
