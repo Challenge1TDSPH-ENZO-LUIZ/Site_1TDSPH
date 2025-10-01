@@ -51,19 +51,19 @@ const AdminDashboard: React.FC<AdminDashboardProps> = ({ user }) => {
         status: 'confirmed'
       },
       {
-        
+        id: 2,
+        patientId: 2,
+        doctorId: 1,
+        date: '2024-10-10',
+        time: '10:00',
+        specialty: 'Cardiologia',
+        status: 'pending'
       }
     ]
 
     const mockMedicalRecords: MedicalRecord[] = [
       {
-        id: 1,
-        patientId: 2,
-        doctorId: 1,
-        date: '2024-09-15',
-        diagnosis: 'Hipertensão arterial',
-        treatment: 'Medicação prescrita',
-        notes: 'Retorno em 30 dias'
+        
       }
     ]
 
