@@ -20,7 +20,7 @@ const Home: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-                Cuidando da sua saúde com excelência
+                Cuidando da sua saúde com excelência e tecnologia
               </h1>
               <p className="text-xl text-blue-100 leading-relaxed">
                 O Hospital São Lucas oferece atendimento médico de qualidade com tecnologia de ponta e profissionais especializados.
