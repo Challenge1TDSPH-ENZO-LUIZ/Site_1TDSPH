@@ -200,7 +200,7 @@ npm run dev
 
 ## 🎥 Vídeo de Demonstração
 
-[🔗 Link do YouTube será adicionado aqui]
+
 
 ## 🔗 Links Importantes
 
