@@ -42,13 +42,7 @@ const AdminDashboard: React.FC<AdminDashboardProps> = ({ user }) => {
 
     const mockAppointments: Appointment[] = [
       {
-        id: 1,
-        patientId: 2,
-        doctorId: 1,
-        date: '2024-10-05',
-        time: '14:00',
-        specialty: 'Cardiologia',
-        status: 'confirmed'
+        
       },
       {
         id: 2,
