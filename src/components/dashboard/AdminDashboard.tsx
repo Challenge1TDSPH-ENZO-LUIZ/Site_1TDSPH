@@ -63,7 +63,13 @@ const AdminDashboard: React.FC<AdminDashboardProps> = ({ user }) => {
 
     const mockMedicalRecords: MedicalRecord[] = [
       {
-        
+        id: 1,
+        patientId: 2,
+        doctorId: 1,
+        date: '2024-09-15',
+        diagnosis: 'Hipertensão arterial',
+        treatment: 'Medicação prescrita',
+        notes: 'Retorno em 30 dias'
       }
     ]
 
