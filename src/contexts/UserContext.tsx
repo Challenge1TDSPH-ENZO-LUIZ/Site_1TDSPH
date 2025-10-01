@@ -34,7 +34,11 @@ export const UserProvider: React.FC<UserProviderProps> = ({ children }) => {
       
     },
     {
-      
+      id: 3,
+      name: 'Admin Sistema',
+      email: 'admin@hospital.com',
+      password: 'admin123',
+      type: 'admin'
     }
   ]
 
