@@ -28,7 +28,13 @@ export const UserProvider: React.FC<UserProviderProps> = ({ children }) => {
   // Mock users data
   const users: User[] = [
     {
-      
+      id: 1,
+      name: 'Dr. João Silva',
+      email: 'joao@hospital.com',
+      password: '123456',
+      type: 'doctor',
+      crm: '123456',
+      specialty: 'Cardiologia'
     },
     {
       id: 2,
