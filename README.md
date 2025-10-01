@@ -137,12 +137,6 @@ npm run dev
 - **Acentos**: Roxo (#8B5CF6), Laranja (#F59E0B)
 - **Neutros**: Cinza (#6B7280), Branco (#FFFFFF)
 
-### Breakpoints Responsivos
-- **xs**: < 640px (Extra Small)
-- **sm**: 640px+ (Small)
-- **md**: 768px+ (Medium)
-- **lg**: 1024px+ (Large)
-- **xl**: 1280px+ (Extra Large)
 
 ## 🔧 Hooks Implementados
 
